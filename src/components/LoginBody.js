@@ -2,7 +2,7 @@ import React from "react";
 
 const LoginBody = () => {
   return (
-    <form className="w-25 mx-auto mb-5 mt-3">
+    <form className="w-50 mx-auto mb-5 mt-3">
       <div className="mb-3">
         <label for="exampleFormControlInput1" className="form-label">
           Email address
