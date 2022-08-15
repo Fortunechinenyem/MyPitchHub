@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className=" text-center">
+    <div className=" text-center mt-5">
       <h2 className="">Welcome Back!</h2>
       <p className="">Login to Continue</p>
       <div className="login">
