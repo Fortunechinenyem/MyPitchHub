@@ -15,7 +15,7 @@ const Hero = () => {
         </p>
       </div>
       <div
-        className="w-25 mx-auto "
+        className="w-50 mx-auto "
         style={{ display: "flex", flexDirection: "row", alignItems: "center" }}
       >
         <div style={{ flex: 1, height: "1px", backgroundColor: "#D8D8D8" }} />
