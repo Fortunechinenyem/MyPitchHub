@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className=" text-center mt-5">
+    <div className="w-25 mx-auto text-center mt-5">
       <h2 className="">Welcome Back!</h2>
       <p className="">Login to Continue</p>
       <div className="login">
@@ -15,7 +15,7 @@ const Hero = () => {
         </p>
       </div>
       <div
-        className="w-50 mx-auto "
+        className="w-25 mx-auto "
         style={{ display: "flex", flexDirection: "row", alignItems: "center" }}
       >
         <div style={{ flex: 1, height: "1px", backgroundColor: "#D8D8D8" }} />
