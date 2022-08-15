@@ -14,6 +14,18 @@ const Hero = () => {
           <i className="fab fa-google"></i> Log in with Google
         </p>
       </div>
+      <div
+        className="w-50 mx-auto "
+        style={{ display: "flex", flexDirection: "row", alignItems: "center" }}
+      >
+        <div style={{ flex: 1, height: "1px", backgroundColor: "black" }} />
+
+        <div>
+          <p style={{ width: "50px", textAlign: "center" }}>OR</p>
+        </div>
+
+        <div style={{ flex: 1, height: "1px", backgroundColor: "black" }} />
+      </div>
     </div>
   );
 };

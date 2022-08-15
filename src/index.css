@@ -114,3 +114,20 @@ body {
   border-radius: 6px;
   background: var(--clr-sisi);
 }
+/* Footer */
+
+.footer {
+  width: 71px;
+  height: 29px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 160%;
+  /* identical to box height, or 29px */
+
+  text-decoration-line: underline;
+
+  color: #fc4e78;
+}
