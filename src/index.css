@@ -101,6 +101,9 @@ body {
 
 .login {
   gap: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 .btn3 {
   display: flex;

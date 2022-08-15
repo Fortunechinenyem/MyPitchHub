@@ -21,7 +21,7 @@ const LoginBody = () => {
         type="password"
         className="form-control"
         id="Enter Password"
-        placeholder="name@example.com"
+        placeholder="Enter Password"
       />
       <a
         href="https://mypitchhub.com/"
