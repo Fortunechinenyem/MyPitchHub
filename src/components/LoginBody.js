@@ -23,7 +23,10 @@ const LoginBody = () => {
         id="Enter Password"
         placeholder="name@example.com"
       />
-      <a href="#" className="btn3 mb-3 mt-5 text-center text-white">
+      <a
+        href="https://mypitchhub.com/"
+        className="btn3 mb-3 mt-5 text-center text-white"
+      >
         Log In
       </a>
     </form>

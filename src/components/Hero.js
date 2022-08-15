@@ -6,11 +6,11 @@ const Hero = () => {
       <h2 className="">Welcome Back!</h2>
       <p className="">Login to Continue</p>
       <div className="login">
-        <a href="#" className="btn1 text-white">
+        <a href="https://mypitchhub.com/" className="btn1 text-white">
           <i className="fab fa-facebook"></i>Log in with Facebook
         </a>
 
-        <a href="#" className="btn2 text-white">
+        <a href="https://mypitchhub.com/" className="btn2 text-white">
           <i className="fab fa-google"></i> Log in with Google
         </a>
       </div>
